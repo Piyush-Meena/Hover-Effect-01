@@ -1,5 +1,5 @@
 
-// - Noel Delgado | @pixelia_me
+// - PiyushMeena | 
 
 const nodes = [].slice.call(document.querySelectorAll('li'), 0);
 const directions = { 0: 'top', 1: 'right', 2: 'bottom', 3: 'left' };
